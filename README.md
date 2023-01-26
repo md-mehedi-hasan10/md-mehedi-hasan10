@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Rana Ahammed
+### Hi there 👋, I'm Mehedi Hasan
 #### MERN Stack Web Developer
-![MERN Stack Web Developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/325616687_705948531021170_3396344191010911532_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE9kWf19Laj3aQBmFw1v6aI7YuKRLY5FAnti4pEtjkUCWTVhWLtxmV-Z9LJGyqqyN-DnIHx5FL6hOBXUKIbtai9&_nc_ohc=Vf_opUHkuvEAX-6Lsjx&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfBGgXi8OvebjPIcXdqewLV8Ww1L5BhCwJBUQqZadNGR6Q&oe=63CA4955)
+
 
 I am a MERN Stack Web Developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning new technologies related web development. I enjoy working with REACT, NODE, EXPRESS, MONGODB. 
 
@@ -12,7 +12,7 @@ Skills: REACT / NODE / EXPRESS / MONGODB / HTML5 / CSS3 / BOOTSTRAP5 / MATERIAL 
 - 📫 How to reach me: Skype:  live:.cid.3ae481636a8c7eea 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rana-ahammed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rana-ahammed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rana6220)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mehedi-hasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mehedi-hasan10)    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
