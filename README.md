@@ -9,7 +9,7 @@ Skills: REACT / NODE / EXPRESS / MONGODB / HTML5 / CSS3 / BOOTSTRAP5 / MATERIAL 
 - 🔭 I’m currently working on building portfolio websites. 
 - 🌱 I’m currently learning various type website building. 
 - 💬 Ask me about Web Development. 
-- 📫 How to reach me: Skype:  live:.cid.3ae481636a8c7eea 
+- 📫 How to reach me: Skype:  live:.cid.5033a0aca3829f6d
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-mehedi-hasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mehedi-hasan10)    
